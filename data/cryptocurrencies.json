@@ -5,713 +5,585 @@
             "name": "Bitcoin",
             "logo": "https://www.coinpayments.net/images/coins/BTC.png",
             "tx": "0.00020000",
-            "rate_btc": "1.000000000000000000000000",
-            "rate": {
-                "rate": 0,
-                "min": "0.00300000",
-                "max": "8.97977500",
-                "shapeshift_linked": true
-            }
+            "rate_btc": "1.000000000000000000000000"
         },
         {
             "code": "BTC.BEP20",
             "name": "Bitcoin/BTCB Token (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/BTC.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "1.000000000000000000000000",
-            "rate": {
-                "rate": 0,
-                "min": "0.00067350",
-                "max": "8.95977550",
-                "shapeshift_linked": true
-            }
+            "rate_btc": "1.000000000000000000000000"
         },
         {
             "code": "BTC.LN",
             "name": "Bitcoin (Lightning Network)",
             "logo": "https://www.coinpayments.net/images/coins/BTCLN.png",
             "tx": "0.00002500",
-            "rate_btc": "1.000000000000000000000000",
-            "rate": []
+            "rate_btc": "1.000000000000000000000000"
         },
         {
             "code": "BCH",
             "name": "Bitcoin Cash",
             "logo": "https://www.coinpayments.net/images/coins/BCH.png",
             "tx": "0.00300000",
-            "rate_btc": "0.004773613550195700000000",
-            "rate": {
-                "rate": 0,
-                "min": "0.14385000",
-                "max": "1869.95305000",
-                "shapeshift_linked": true
-            }
+            "rate_btc": "0.004775132788571800000000"
         },
         {
             "code": "BCH.BEP20",
             "name": "Bitcoin Cash Token (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/BCH.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "0.004773613550195700000000",
-            "rate": {
-                "rate": 0,
-                "min": "0.14040000",
-                "max": "1869.95320000",
-                "shapeshift_linked": true
-            }
+            "rate_btc": "0.004775132788571800000000"
         },
         {
             "code": "LTC",
             "name": "Litecoin",
             "logo": "https://www.coinpayments.net/images/coins/LTC.png",
             "tx": "0.00600000",
-            "rate_btc": "0.000907943339957720000000",
-            "rate": {
-                "rate": 0,
-                "min": "0.75150000",
-                "max": "9929.75150000",
-                "shapeshift_linked": true
-            }
+            "rate_btc": "0.000905684407207700000000"
         },
         {
             "code": "LTC.BEP20",
             "name": "Litecoin Token (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/LTC.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000907943339957720000000",
-            "rate": {
-                "rate": 0,
-                "min": "0.74700000",
-                "max": "9939.75100000",
-                "shapeshift_linked": true
-            }
+            "rate_btc": "0.000905684407207700000000"
         },
         {
             "code": "VLX",
             "name": "Velas (EVM)",
             "logo": "https://www.coinpayments.net/images/coins/VLX.png",
             "tx": "0.00000500",
-            "rate_btc": "0.000000013809344068855000",
-            "rate": []
+            "rate_btc": "0.000000013804225772532000"
         },
         {
             "code": "VLX.Native",
             "name": "Velas (Native)",
             "logo": "https://www.coinpayments.net/images/coins/VLX.png",
             "tx": "0.00010000",
-            "rate_btc": "0.000000013809344068855000",
-            "rate": []
+            "rate_btc": "0.000000013804225772532000"
         },
         {
             "code": "BFT",
             "name": "BF Token",
             "logo": "https://www.coinpayments.net/images/coins/chained/BFT.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000000172081394390270000",
-            "rate": []
+            "rate_btc": "0.000000172052261685290000"
         },
         {
             "code": "BICITY.BEP20",
             "name": "BiCity AI Projects (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/BICITY.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000000003402324102974600",
-            "rate": []
+            "rate_btc": "0.000000003402951106278600"
         },
         {
             "code": "BNB.BSC",
             "name": "BNB Coin (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/BNB.png",
             "tx": "0.00100000",
-            "rate_btc": "0.009811083716292400000000",
-            "rate": {
-                "rate": 0,
-                "min": "0.07000000",
-                "max": "909.97700000",
-                "shapeshift_linked": true
-            }
+            "rate_btc": "0.009813251049342700000000"
         },
         {
             "code": "BNB.ERC20",
             "name": "BNB Coin (ERC-20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/BNB.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.009811083716292400000000",
-            "rate": {
-                "rate": 0,
-                "min": "0.06900000",
-                "max": "909.97700000",
-                "shapeshift_linked": true
-            }
+            "rate_btc": "0.009813251049342700000000"
         },
         {
             "code": "BTT.TRC20",
             "name": "BitTorrent (Tron/TRC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/BTT.TRX.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000000000004383156813350",
-            "rate": {
-                "rate": 0,
-                "min": "62617124.37989689",
-                "max": "18785137313.96906281",
-                "shapeshift_linked": true
-            }
+            "rate_btc": "0.000000000004373882598534"
         },
         {
             "code": "BUSD",
             "name": "Binance USD (ERC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/BUSD.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000008964720107828100000",
-            "rate": []
+            "rate_btc": "0.000008963113833365600000"
         },
         {
             "code": "BUSD.BEP20",
             "name": "BUSD Token (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/BUSD.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000008964720107828100000",
-            "rate": []
+            "rate_btc": "0.000008963113833365600000"
         },
         {
             "code": "BUSD.TRC20",
             "name": "Binance USD (Tron/TRC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/BUSD.TRX.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000008964720107828100000",
-            "rate": []
+            "rate_btc": "0.000008963113833365600000"
         },
         {
             "code": "BXN",
             "name": "BlackFort Exchange Network",
             "logo": "https://www.coinpayments.net/images/coins/BXN.png",
             "tx": "0.00100000",
-            "rate_btc": "0.000000010498425850510000",
-            "rate": []
+            "rate_btc": "0.000000010491047402054000"
         },
         {
             "code": "CNHT",
             "name": "Tether CNH (ERC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/CNHT.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000001388565112641400000",
-            "rate": []
+            "rate_btc": "0.000001387913524788100000"
         },
         {
             "code": "CNHT.TRC20",
             "name": "Tether CNH (Tron/TRC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/CNHT.TRX.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000001388565112641400000",
-            "rate": []
+            "rate_btc": "0.000001387913524788100000"
         },
         {
             "code": "DAI",
             "name": "Dai (ERC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/DAI.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009059406191904300000",
-            "rate": []
+            "rate_btc": "0.000009057403829930200000"
         },
         {
             "code": "DAI.BEP20",
             "name": "Dai Token (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/DAI.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009059406191904300000",
-            "rate": []
+            "rate_btc": "0.000009057403829930200000"
         },
         {
             "code": "DASH",
             "name": "Dash",
             "logo": "https://www.coinpayments.net/images/coins/DASH.png",
             "tx": "0.00300000",
-            "rate_btc": "0.000842320515018970000000",
-            "rate": []
+            "rate_btc": "0.000849303728250110000000"
         },
         {
             "code": "DGB",
             "name": "DigiByte",
             "logo": "https://www.coinpayments.net/images/coins/DGB.png",
             "tx": "0.00300000",
-            "rate_btc": "0.000000055762119440353000",
-            "rate": []
+            "rate_btc": "0.000000055649710005233000"
         },
         {
             "code": "DOGE",
             "name": "Dogecoin",
             "logo": "https://www.coinpayments.net/images/coins/DOGE.png",
             "tx": "6.00000000",
-            "rate_btc": "0.000001678858461862700000",
-            "rate": []
+            "rate_btc": "0.000001678795559087600000"
         },
         {
             "code": "DOGE.BEP20",
             "name": "Dogecoin (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/DOGE.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000001678858461862700000",
-            "rate": []
+            "rate_btc": "0.000001678795559087600000"
         },
         {
             "code": "DOT.BEP20",
             "name": "Polkadot Token (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/DOT.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000027019767448183000000",
-            "rate": []
+            "rate_btc": "0.000026998384484966000000"
         },
         {
             "code": "ETC",
             "name": "Ether Classic",
             "logo": "https://www.coinpayments.net/images/coins/ETC.png",
             "tx": "0.00100000",
-            "rate_btc": "0.000147698776765890000000",
-            "rate": []
+            "rate_btc": "0.000147674743152630000000"
         },
         {
             "code": "ETC.BEP20",
             "name": "Ethereum Classic (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/ETC.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000147698776765890000000",
-            "rate": []
+            "rate_btc": "0.000147674743152630000000"
         },
         {
             "code": "ETH",
             "name": "Ether",
             "logo": "https://www.coinpayments.net/images/coins/ETH.png",
             "tx": "0.00300000",
-            "rate_btc": "0.034968435841744000000000",
-            "rate": []
+            "rate_btc": "0.034956582064685000000000"
         },
         {
             "code": "ETH.BEP20",
             "name": "Ethereum Token (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/ETH.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "0.034968435841744000000000",
-            "rate": []
+            "rate_btc": "0.034956582064685000000000"
         },
         {
             "code": "EVERY.ERC20",
             "name": "Everyworld (ERC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/EVERY.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000000001627111814337100",
-            "rate": []
+            "rate_btc": "0.000000001620120640087500"
         },
         {
             "code": "FDUSD.BEP20",
             "name": "First Digital USD (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/FDUSD.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009041363662789200000",
-            "rate": []
+            "rate_btc": "0.000009040037427365200000"
         },
         {
             "code": "FDUSD.ERC20",
             "name": "First Digital USD (ERC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/FDUSD.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009041363662789200000",
-            "rate": []
+            "rate_btc": "0.000009040037427365200000"
         },
         {
             "code": "FIRO",
             "name": "Firo",
             "logo": "https://www.coinpayments.net/images/coins/FIRO.png",
             "tx": "0.03000000",
-            "rate_btc": "0.000015228372829278000000",
-            "rate": []
+            "rate_btc": "0.000015213677559784000000"
         },
         {
             "code": "FTN",
             "name": "Fasttoken (ERC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/FTN.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000016730912280471000000",
-            "rate": []
+            "rate_btc": "0.000016757925963588000000"
         },
         {
             "code": "GUSD",
             "name": "Gemini dollar",
             "logo": "https://www.coinpayments.net/images/coins/chained/GUSD.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009055120675908700000",
-            "rate": []
+            "rate_btc": "0.000009053457854267900000"
         },
         {
             "code": "ISLM.EVM",
             "name": "Islamic Coin (Haqq) EVM",
             "logo": "https://www.coinpayments.net/images/coins/ISLM.png",
             "tx": "0.00100000",
-            "rate_btc": "0.000000153030752725210000",
-            "rate": []
+            "rate_btc": "0.000000151948251120540000"
         },
         {
             "code": "LINK",
             "name": "ChainLink Token (ERC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/LINK.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000156577545062200000000",
-            "rate": []
+            "rate_btc": "0.000156682265806380000000"
         },
         {
             "code": "LINK.BEP20",
             "name": "ChainLink Token (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/LINK.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000156577545062200000000",
-            "rate": []
+            "rate_btc": "0.000156682265806380000000"
         },
         {
             "code": "PAXG",
             "name": "Paxos Gold",
             "logo": "https://www.coinpayments.net/images/coins/chained/PAXG.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.036220055866770000000000",
-            "rate": []
+            "rate_btc": "0.036203298971944000000000"
         },
         {
             "code": "PIVX",
             "name": "PIVX",
             "logo": "https://www.coinpayments.net/images/coins/PIVX.png",
             "tx": "0.00030000",
-            "rate_btc": "0.000002823848762335700000",
-            "rate": []
+            "rate_btc": "0.000002802262739747300000"
         },
         {
             "code": "POA20",
             "name": "POA20 (ERC20 Token)",
             "logo": "https://www.coinpayments.net/images/coins/chained/POA20.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000000208032782209500000",
-            "rate": []
+            "rate_btc": "0.000000207929749639950000"
         },
         {
             "code": "POL",
             "name": "Polygon (formerly MATIC) (Polygon Chain)",
             "logo": "https://www.coinpayments.net/images/coins/POL.png",
             "tx": "0.00200000",
-            "rate_btc": "0.000001740691220767900000",
-            "rate": []
+            "rate_btc": "0.000001740578891140500000"
         },
         {
             "code": "PYUSD.ERC20",
             "name": "PayPal USD (ERC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/PYUSD.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009057049177925200000",
-            "rate": []
+            "rate_btc": "0.000009051016523196400000"
         },
         {
             "code": "QTUM",
             "name": "Qtum",
             "logo": "https://www.coinpayments.net/images/coins/QTUM.png",
             "tx": "0.01800000",
-            "rate_btc": "0.000017234936590922000000",
-            "rate": []
+            "rate_btc": "0.000017242899968215000000"
         },
         {
             "code": "RVN",
             "name": "Ravencoin",
             "logo": "https://www.coinpayments.net/images/coins/RVN.png",
             "tx": "0.01000000",
-            "rate_btc": "0.000000088367443709757000",
-            "rate": []
+            "rate_btc": "0.000000088459291895291000"
         },
         {
             "code": "SHIB",
             "name": "SHIBA INU (ERC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/SHIB.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000000000091800125233618",
-            "rate": []
+            "rate_btc": "0.000000000091884807881748"
         },
         {
             "code": "SHIB.BEP20",
             "name": "SHIBA INU (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/SHIB.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000000000091800125233618",
-            "rate": []
+            "rate_btc": "0.000000000091884807881748"
         },
         {
             "code": "SOL",
             "name": "Solana",
             "logo": "https://www.coinpayments.net/images/coins/SOL.png",
             "tx": "0.00010000",
-            "rate_btc": "0.001675420703700200000000",
-            "rate": []
+            "rate_btc": "0.001672717519972200000000"
         },
         {
             "code": "SOLAMA.SOL",
             "name": "Solama (Solana)",
             "logo": "https://www.coinpayments.net/images/coins/chained/SOLAMA.SOL.png",
             "tx": "0.00010000",
-            "rate_btc": "0.000000017249780255983000",
-            "rate": []
+            "rate_btc": "0.000000017241292878266000"
         },
         {
             "code": "SYS",
             "name": "Syscoin",
             "logo": "https://www.coinpayments.net/images/coins/SYS.png",
             "tx": "0.00600000",
-            "rate_btc": "0.000000256753692133380000",
-            "rate": []
+            "rate_btc": "0.000000256564234140900000"
         },
         {
             "code": "TON.BEP20",
             "name": "Wrapped TON Coin (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/TON.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000020959398740350000000",
-            "rate": []
+            "rate_btc": "0.000020886391901269000000"
         },
         {
             "code": "TON.ERC20",
             "name": "Wrapped TON Coin (ERC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/TON.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000020959398740350000000",
-            "rate": []
+            "rate_btc": "0.000020886391901269000000"
         },
         {
             "code": "TRX",
             "name": "TRON",
             "logo": "https://www.coinpayments.net/images/coins/TRX.png",
             "tx": "2.00000000",
-            "rate_btc": "0.000002679091529008100000",
-            "rate": []
+            "rate_btc": "0.000002678079191419600000"
         },
         {
             "code": "TUSD",
             "name": "TrueUSD",
             "logo": "https://www.coinpayments.net/images/coins/chained/TUSD.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009030693876811000000",
-            "rate": []
+            "rate_btc": "0.000009028903664311000000"
         },
         {
             "code": "TUSD.BEP20",
             "name": "TrueUSD (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/TUSD.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009030693876811000000",
-            "rate": []
+            "rate_btc": "0.000009028903664311000000"
         },
         {
             "code": "TUSD.PRC20",
             "name": "TrueUSD (Polygon)",
             "logo": "https://www.coinpayments.net/images/coins/chained/TUSD.POL.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009030693876811000000",
-            "rate": []
+            "rate_btc": "0.000009028903664311000000"
         },
         {
             "code": "TUSD.TRC20",
             "name": "TrueUSD (Tron/TRC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/TUSD.TRX.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009030693876811000000",
-            "rate": []
+            "rate_btc": "0.000009028903664311000000"
         },
         {
             "code": "USDC",
             "name": "USD Coin (ERC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/USDC.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009059473143348800000",
-            "rate": []
+            "rate_btc": "0.000009053062782677200000"
         },
         {
             "code": "USDC.BEP20",
             "name": "USD Coin (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/USDC.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009059473143348800000",
-            "rate": []
+            "rate_btc": "0.000009053062782677200000"
         },
         {
             "code": "USDC.E.PRC20",
             "name": "USDC.e (Bridged USDC) (Polygon/MATIC)",
             "logo": "https://www.coinpayments.net/images/coins/chained/USDC.POL.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009066235337836900000",
-            "rate": []
+            "rate_btc": "0.000009060333375483900000"
         },
         {
             "code": "USDC.PRC20",
             "name": "USD Coin (Polygon/MATIC)",
             "logo": "https://www.coinpayments.net/images/coins/chained/USDC.POL.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009059473143348800000",
-            "rate": []
+            "rate_btc": "0.000009053062782677200000"
         },
         {
             "code": "USDC.SOL",
             "name": "USD Coin (Solana)",
             "logo": "https://www.coinpayments.net/images/coins/chained/USDC.SOL.png",
             "tx": "0.00010000",
-            "rate_btc": "0.000009059473143348800000",
-            "rate": []
+            "rate_btc": "0.000009053062782677200000"
         },
         {
             "code": "USDC.TRC20",
             "name": "USD Coin (Tron/TRC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/USDC.TRX.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009059473143348800000",
-            "rate": []
+            "rate_btc": "0.000009053062782677200000"
         },
         {
             "code": "USDT.BEP20",
             "name": "Tether USD (BSC Chain)",
             "logo": "https://www.coinpayments.net/images/coins/chained/USDT.BNBBSC.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009058888600400400000",
-            "rate": []
+            "rate_btc": "0.000009057374069807300000"
         },
         {
             "code": "USDT.ERC20",
             "name": "Tether USD (ERC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/USDT.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009058888600400400000",
-            "rate": []
+            "rate_btc": "0.000009057374069807300000"
         },
         {
             "code": "USDT.PRC20",
             "name": "Tether USD (Polygon/MATIC)",
             "logo": "https://www.coinpayments.net/images/coins/chained/USDT.POL.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009058888600400400000",
-            "rate": []
+            "rate_btc": "0.000009057374069807300000"
         },
         {
             "code": "USDT.SOL",
             "name": "Tether USD (Solana)",
             "logo": "https://www.coinpayments.net/images/coins/chained/USDT.SOL.png",
             "tx": "0.00010000",
-            "rate_btc": "0.000009058888600400400000",
-            "rate": []
+            "rate_btc": "0.000009057374069807300000"
         },
         {
             "code": "USDT.TRC20",
             "name": "Tether USD (Tron/TRC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/USDT.TRX.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009058888600400400000",
-            "rate": []
+            "rate_btc": "0.000009057374069807300000"
         },
         {
             "code": "XAUT",
             "name": "Tether Gold (ERC20)",
             "logo": "https://www.coinpayments.net/images/coins/chained/XAUT.ETH.png",
             "tx": "0.00000000",
-            "rate_btc": "0.036230808602788000000000",
-            "rate": []
+            "rate_btc": "0.036191566060506000000000"
         },
         {
             "code": "XEM",
             "name": "NEM",
             "logo": "https://www.coinpayments.net/images/coins/XEM.png",
             "tx": "4.05000000",
-            "rate_btc": "0.000000013098786466237000",
-            "rate": []
+            "rate_btc": "0.000000012850329061688000"
         },
         {
             "code": "XMR",
             "name": "Monero",
             "logo": "https://www.coinpayments.net/images/coins/XMR.png",
             "tx": "0.01000000",
-            "rate_btc": "0.003215266551861400000000",
-            "rate": []
+            "rate_btc": "0.003210065147666900000000"
         },
         {
             "code": "XRP",
             "name": "XRP (XRPL)",
             "logo": "https://www.coinpayments.net/images/coins/XRP.png",
             "tx": "0.01500000",
-            "rate_btc": "0.000022764787071768000000",
-            "rate": []
+            "rate_btc": "0.000022762920687451000000"
         },
         {
             "code": "XVG",
             "name": "VERGE",
             "logo": "https://www.coinpayments.net/images/coins/XVG.png",
             "tx": "1.00000000",
-            "rate_btc": "0.000000066888633582021000",
-            "rate": []
+            "rate_btc": "0.000000066744298747415000"
         },
         {
             "code": "ZEC",
             "name": "ZCash",
             "logo": "https://www.coinpayments.net/images/coins/ZEC.png",
             "tx": "0.00300000",
-            "rate_btc": "0.003745428330971500000000",
-            "rate": []
+            "rate_btc": "0.003740031918922400000000"
         },
         {
             "code": "ZEN",
             "name": "Horizen",
             "logo": "https://www.coinpayments.net/images/coins/ZEN.png",
             "tx": "0.03000000",
-            "rate_btc": "0.000170917360588370000000",
-            "rate": []
+            "rate_btc": "0.000170810350096770000000"
         },
         {
             "code": "BTC.Bitstamp",
             "name": "Bitstamp BTC",
             "logo": "https://www.coinpayments.net/images/coins/BTC.png",
             "tx": "0.00000000",
-            "rate_btc": "1.000000000000000000000000",
-            "rate": []
+            "rate_btc": "1.000000000000000000000000"
         },
         {
             "code": "CAD.Bluzelle",
             "name": "Bluzelle CAD",
             "logo": "https://www.coinpayments.net/images/coins/CAD.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000006447566798306500000",
-            "rate": []
+            "rate_btc": "0.000006443757782758700000"
         },
         {
             "code": "EUR.Bitstamp",
             "name": "Bitstamp EUR",
             "logo": "https://www.coinpayments.net/images/coins/EUR.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000010504975931886000000",
-            "rate": []
+            "rate_btc": "0.000010498769929233000000"
         },
         {
             "code": "GBP.Bitstamp",
             "name": "Bitstamp GBP",
             "logo": "https://www.coinpayments.net/images/coins/GBP.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000011919864977038000000",
-            "rate": []
+            "rate_btc": "0.000011912823103344000000"
         },
         {
             "code": "USD.Bitstamp",
             "name": "Bitstamp USD",
             "logo": "https://www.coinpayments.net/images/coins/USD.png",
             "tx": "0.00000000",
-            "rate_btc": "0.000009060748691858000000",
-            "rate": []
+            "rate_btc": "0.000009058580227154300000"
         },
         {
             "code": "LTCT",
             "name": "Litecoin Testnet",
             "logo": "https://www.coinpayments.net/images/coins/LTCT.png",
             "tx": "0.00100000",
-            "rate_btc": "0.000907943339957720000000",
-            "rate": []
+            "rate_btc": "0.000905684407207700000000"
         }
     ],
     "base_rate": [],
     "base_tx": "0.00000000",
-    "timestamp": 1762081536,
-    "last_sync": "2025-11-02 11:05:36"
+    "timestamp": 1762081872,
+    "last_sync": "2025-11-02 11:11:12"
 }
